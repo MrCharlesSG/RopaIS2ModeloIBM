@@ -575,14 +575,14 @@
             </children>
             <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_CJ3ilbOUEe29A_xotaGIwg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
           </edges>
-          <edges xmi:type="umlnotation:UMLConnector" xmi:id="_6F2FkLgkEe29BYL7A3eEsA" source="_-W5AMLOTEe29A_xotaGIwg" target="_UudfILOUEe29A_xotaGIwg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
-            <children xmi:type="notation:DecorationNode" xmi:id="_6F2FkrgkEe29BYL7A3eEsA" type="NameLabel">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_6F2FlLgkEe29BYL7A3eEsA" type="Stereotype"/>
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_6F2soLgkEe29BYL7A3eEsA" type="Name"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_6F2Fk7gkEe29BYL7A3eEsA" y="-186"/>
+          <edges xmi:type="umlnotation:UMLConnector" xmi:id="_QG_GoLjXEe24yddmjadwXQ" source="_-W5AMLOTEe29A_xotaGIwg" target="_UudfILOUEe29A_xotaGIwg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+            <children xmi:type="notation:DecorationNode" xmi:id="_QHEmMLjXEe24yddmjadwXQ" type="NameLabel">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_QHEmMrjXEe24yddmjadwXQ" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_QHEmM7jXEe24yddmjadwXQ" type="Name"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QHEmMbjXEe24yddmjadwXQ" y="-124"/>
             </children>
-            <element xmi:type="uml:Dependency" href="mmi:///#MixModelRelationVizRefHandler%5EElement_Name=JRE%20System%20Library%20%255bJavaSE-1.8%255d::rt.jar::java.awt.event::ActionListener:modelo%20de%20diseño::Presentacion::Controlador::Controlador:2:com.ibm.xtools.uml.dependency%5ERelationType=com.ibm.xtools.uml.dependency%5ESource_langKind=Interface%5ETarget_Element=_bCEmYLKQEe2f1b6EN9Xz7Q%5ETarget_Resource=platform:/resource/RopaIS2ModeloIBM/ropa/modelo%2520de%2520diseño.emx%5ETarget_langKind=Class%5Bjbintype%5Ename=java.awt.event.ActionListener%5Bproject%5Eid=ropa%5D%5D$uml.Dependency"/>
-            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_6F2FkbgkEe29BYL7A3eEsA" points="[59, 7, -131, 3]$[133, 7, -57, 3]"/>
+            <element xmi:type="uml:Dependency" href="mmi:///#MixModelRelationVizRefHandler%5EElement_Name=JRE%20System%20Library%20%255bJavaSE-1.8%255d::rt.jar::java.awt.event::ActionListener:modelo%20de%20diseño::Presentacion::Controlador::Controlador:1:com.ibm.xtools.uml.dependency%5ERelationType=com.ibm.xtools.uml.dependency%5ESource_langKind=Interface%5ETarget_Element=_bCEmYLKQEe2f1b6EN9Xz7Q%5ETarget_Resource=platform:/resource/RopaIS2ModeloIBM/ropa/modelo%2520de%2520diseño.emx%5ETarget_langKind=Class%5Bjbintype%5Ename=java.awt.event.ActionListener%5Bproject%5Eid=ropa%5D%5D$uml.Dependency"/>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QG_GobjXEe24yddmjadwXQ" points="[76, -4, -207, -9]$[242, -37, -41, -42]"/>
           </edges>
         </contents>
         <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_GMb1kLOTEe29A_xotaGIwg" type="Class" name="MarcaPorID">
@@ -727,7 +727,7 @@
               <children xmi:type="notation:BasicDecorationNode" xmi:id="_QbwwV7OTEe29A_xotaGIwg" type="Name"/>
               <layoutConstraint xmi:type="notation:Bounds" xmi:id="_QbwwVbOTEe29A_xotaGIwg" y="-186"/>
             </children>
-            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QbwwU7OTEe29A_xotaGIwg" points="[1300, -700, -4392, 2365]$[1300, -2940, -4392, 125]$[4582, -2940, -1110, 125]"/>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_QbwwU7OTEe29A_xotaGIwg" points="[1135, -553, -5082, 1780]$[1135, -1833, -5082, 500]$[6243, -1833, 26, 500]$[6243, -1894, 26, 439]"/>
           </edges>
           <edges xmi:type="umlnotation:UMLConnector" xmi:id="_Q0ojU7OTEe29A_xotaGIwg" element="_LxR-M7OTEe29A_xotaGIwg" source="_NAGhwLOTEe29A_xotaGIwg" target="_Q0n8QLOTEe29A_xotaGIwg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
             <children xmi:type="notation:DecorationNode" xmi:id="_Q0ojVbOTEe29A_xotaGIwg" type="NameLabel">
@@ -877,18 +877,18 @@
             <element xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=javax.swing.JTextField%5Bproject%5Eid=ropa%5D$uml.Class"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_mXKbMbOUEe29A_xotaGIwg" x="11412" y="9510"/>
           </children>
-          <children xmi:type="umlnotation:UMLShape" xmi:id="_34aEYLOUEe29A_xotaGIwg" element="_bCEmYLKQEe2f1b6EN9Xz7Q" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
-            <children xmi:type="notation:DecorationNode" xmi:id="_34arcLOUEe29A_xotaGIwg" type="ImageCompartment">
-              <layoutConstraint xmi:type="notation:Size" xmi:id="_34arcbOUEe29A_xotaGIwg" width="1320" height="1320"/>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_rB08cLjXEe24yddmjadwXQ" element="_bCEmYLKQEe2f1b6EN9Xz7Q" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_rB508LjXEe24yddmjadwXQ" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_rB508bjXEe24yddmjadwXQ" width="1320" height="1320"/>
             </children>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_34arcrOUEe29A_xotaGIwg" type="Stereotype"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_34b5kLOUEe29A_xotaGIwg" type="Name"/>
-            <children xmi:type="notation:BasicDecorationNode" xmi:id="_34b5kbOUEe29A_xotaGIwg" type="Parent"/>
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_34b5krOUEe29A_xotaGIwg" type="AttributeCompartment"/>
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_34b5k7OUEe29A_xotaGIwg" type="OperationCompartment"/>
-            <children xmi:type="notation:SemanticListCompartment" xmi:id="_34b5lLOUEe29A_xotaGIwg" visible="false" type="SignalCompartment"/>
-            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_34cgoLOUEe29A_xotaGIwg" visible="false" type="StructureCompartment"/>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_34aEYbOUEe29A_xotaGIwg" x="24092" y="6023"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_rB508rjXEe24yddmjadwXQ" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_rB5087jXEe24yddmjadwXQ" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_rB509LjXEe24yddmjadwXQ" type="Parent"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_rB509bjXEe24yddmjadwXQ" type="AttributeCompartment"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_rB509rjXEe24yddmjadwXQ" type="OperationCompartment"/>
+            <children xmi:type="notation:SemanticListCompartment" xmi:id="_rB5097jXEe24yddmjadwXQ" visible="false" type="SignalCompartment"/>
+            <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_rB-tcLjXEe24yddmjadwXQ" visible="false" type="StructureCompartment"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rB08cbjXEe24yddmjadwXQ" x="18386" y="6023"/>
           </children>
           <element xsi:nil="true"/>
           <edges xmi:type="umlnotation:UMLConnector" xmi:id="_ilSFCLOUEe29A_xotaGIwg" element="_hB4YkbOUEe29A_xotaGIwg" source="_h14BULOUEe29A_xotaGIwg" target="_ilRd8LOUEe29A_xotaGIwg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
@@ -955,14 +955,14 @@
             </children>
             <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_mXLCSbOUEe29A_xotaGIwg" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
           </edges>
-          <edges xmi:type="umlnotation:UMLConnector" xmi:id="_x7TtELgkEe29BYL7A3eEsA" source="_i_KkoLOUEe29A_xotaGIwg" target="_34aEYLOUEe29A_xotaGIwg" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
-            <children xmi:type="notation:DecorationNode" xmi:id="_x7WwYLgkEe29BYL7A3eEsA" type="NameLabel">
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_x7XXcLgkEe29BYL7A3eEsA" type="Stereotype"/>
-              <children xmi:type="notation:BasicDecorationNode" xmi:id="_x7XXcbgkEe29BYL7A3eEsA" type="Name"/>
-              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_x7WwYbgkEe29BYL7A3eEsA" y="-186"/>
+          <edges xmi:type="umlnotation:UMLConnector" xmi:id="_rB-tcbjXEe24yddmjadwXQ" source="_i_KkoLOUEe29A_xotaGIwg" target="_rB08cLjXEe24yddmjadwXQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+            <children xmi:type="notation:DecorationNode" xmi:id="_rB-tc7jXEe24yddmjadwXQ" type="NameLabel">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_rB-tdbjXEe24yddmjadwXQ" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_rB-tdrjXEe24yddmjadwXQ" type="Name"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rB-tdLjXEe24yddmjadwXQ" y="-124"/>
             </children>
             <element xmi:type="uml:Dependency" href="mmi:///#MixModelRelationVizRefHandler%5EElement_Name=JRE%20System%20Library%20%255bJavaSE-1.8%255d::rt.jar::java.awt.event::ActionListener:modelo%20de%20diseño::Presentacion::Controlador::Controlador:1:com.ibm.xtools.uml.dependency%5ERelationType=com.ibm.xtools.uml.dependency%5ESource_langKind=Interface%5ETarget_Element=_bCEmYLKQEe2f1b6EN9Xz7Q%5ETarget_Resource=platform:/resource/RopaIS2ModeloIBM/ropa/modelo%2520de%2520diseño.emx%5ETarget_langKind=Class%5Bjbintype%5Ename=java.awt.event.ActionListener%5Bproject%5Eid=ropa%5D%5D$uml.Dependency"/>
-            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_x7TtEbgkEe29BYL7A3eEsA" points="[59, 2, -359, -14]$[361, 16, -57, 0]"/>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_rB-tcrjXEe24yddmjadwXQ" points="[0, 0, 0, 0]$[0, 0, 0, 0]"/>
           </edges>
         </contents>
       </eAnnotations>
