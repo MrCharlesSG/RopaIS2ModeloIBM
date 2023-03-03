@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--xtools2_universal_type_manager-->
 <!--Rational Software Architect Designer 9.6-->
-<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Plataforma de modelado de Rational (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
 <?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
 <uml:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_djd7QbkWEe2I4c3aQpgxDQ" name="ModeloDeDiseño">
   <eAnnotations xmi:id="_djd7QrkWEe2I4c3aQpgxDQ" source="uml2.diagrams"/>
@@ -77,6 +77,19 @@
             <element xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=java.awt.event.ActionListener%5Bproject%5Eid=Canabis%5D$uml.Interface"/>
             <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5ejGEbkWEe2I4c3aQpgxDQ" x="9193" y="5389"/>
           </children>
+          <children xmi:type="umlnotation:UMLShape" xmi:id="_rRddYLmnEe2B4LHzQY_Urw" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+            <children xmi:type="notation:DecorationNode" xmi:id="_rRddYrmnEe2B4LHzQY_Urw" type="ImageCompartment">
+              <layoutConstraint xmi:type="notation:Size" xmi:id="_rRddY7mnEe2B4LHzQY_Urw" width="1320" height="1320"/>
+            </children>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_rRddZLmnEe2B4LHzQY_Urw" type="Stereotype"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_rRddZbmnEe2B4LHzQY_Urw" type="Name"/>
+            <children xmi:type="notation:BasicDecorationNode" xmi:id="_rRddZrmnEe2B4LHzQY_Urw" type="Parent"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_rRddZ7mnEe2B4LHzQY_Urw" visible="false" type="ANNOTATION_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_rRddaLmnEe2B4LHzQY_Urw" type="ANNOTATED_ATTRIBUTE_COMPARTMENT"/>
+            <children xmi:type="notation:ListCompartment" xmi:id="_rRddabmnEe2B4LHzQY_Urw" type="ANNOTATED_OPERATION_COMPARTMENT"/>
+            <element xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=javax.swing.JPanel%5Bproject%5Eid=Canabis%5D$uml.Class"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rRddYbmnEe2B4LHzQY_Urw" x="7366" y="7620"/>
+          </children>
           <element xsi:nil="true"/>
           <edges xmi:type="umlnotation:UMLConnector" xmi:id="_3TeVoLkWEe2I4c3aQpgxDQ" element="_3TdHgLkWEe2I4c3aQpgxDQ" source="_yPYwsLkWEe2I4c3aQpgxDQ" target="_3SoBELkWEe2I4c3aQpgxDQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
             <children xmi:type="notation:DecorationNode" xmi:id="_3Te8sLkWEe2I4c3aQpgxDQ" type="NameLabel">
@@ -102,15 +115,26 @@
             </children>
             <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_57F4IbkWEe2I4c3aQpgxDQ" points="[-67, 8, 274, -38]$[-265, 37, 76, -9]"/>
           </edges>
+          <edges xmi:type="umlnotation:UMLConnector" xmi:id="_rTSCULmnEe2B4LHzQY_Urw" element="_rSzhMLmnEe2B4LHzQY_Urw" source="_yPYwsLkWEe2I4c3aQpgxDQ" target="_rRddYLmnEe2B4LHzQY_Urw" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+            <children xmi:type="notation:DecorationNode" xmi:id="_rTSCUrmnEe2B4LHzQY_Urw" type="NameLabel">
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_rTSCVLmnEe2B4LHzQY_Urw" type="Stereotype"/>
+              <children xmi:type="notation:BasicDecorationNode" xmi:id="_rTSCVbmnEe2B4LHzQY_Urw" type="Name"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_rTSCU7mnEe2B4LHzQY_Urw" y="-149"/>
+            </children>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_rTSCUbmnEe2B4LHzQY_Urw" points="[-18, -19, 196, 196]$[-212, -213, 2, 2]"/>
+          </edges>
         </contents>
       </eAnnotations>
-      <packagedElement xmi:type="uml:Class" xmi:id="_r1LGULkWEe2I4c3aQpgxDQ" name="AltaMarca" clientDependency="_5emwcLkWEe2I4c3aQpgxDQ">
+      <packagedElement xmi:type="uml:Class" xmi:id="_r1LGULkWEe2I4c3aQpgxDQ" name="AltaMarca" clientDependency="_5emwcLkWEe2I4c3aQpgxDQ _rSzhMLmnEe2B4LHzQY_Urw">
         <generalization xmi:id="_3TdHgLkWEe2I4c3aQpgxDQ">
           <general xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=javax.swing.JFrame%5Bproject%5Eid=Canabis%5D$uml.Class"/>
         </generalization>
       </packagedElement>
       <packagedElement xmi:type="uml:Dependency" xmi:id="_5emwcLkWEe2I4c3aQpgxDQ" client="_r1LGULkWEe2I4c3aQpgxDQ">
         <supplier xmi:type="uml:Interface" href="mmi:///#jbintype%5Ename=java.awt.event.ActionListener%5Bproject%5Eid=Canabis%5D$uml.Interface"/>
+      </packagedElement>
+      <packagedElement xmi:type="uml:Dependency" xmi:id="_rSzhMLmnEe2B4LHzQY_Urw" client="_r1LGULkWEe2I4c3aQpgxDQ">
+        <supplier xmi:type="uml:Class" href="mmi:///#jbintype%5Ename=javax.swing.JPanel%5Bproject%5Eid=Canabis%5D$uml.Class"/>
       </packagedElement>
     </packagedElement>
     <packagedElement xmi:type="uml:Package" xmi:id="_oW8E4LkWEe2I4c3aQpgxDQ" name="Controlador">
